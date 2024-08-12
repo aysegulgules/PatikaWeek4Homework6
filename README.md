@@ -1,1 +1,1 @@
-# PatikaWeek4Homework6
+<span style="font-size:0.5em;"># PatikaWeek4Homework6 bu pratikte  C# dilinde geometrik şekillerin alanlarını hesaplayan bir uygulama oluşturmayı amaçlamaktadır. Proje kapsamında, `Square`, `Rectangle` ve `RightTriangle` sınıfları, `BaseGeometricShape` sınıfından türetilmiştir.</span> 
